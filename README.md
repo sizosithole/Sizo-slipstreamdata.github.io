@@ -1,6 +1,9 @@
 # Hi I'm Sizo Allay Sithole  
 
+MEng Industrial Engineering- Data Science
 Bsc Honours in Business Analytics  
+BSc Quantitative Risk Management
+
 Passionate about data-driven solutions  
 Focused on leveraging advanced analytics & machine learning for measurable business and social impact  
 
